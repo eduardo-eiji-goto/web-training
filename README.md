@@ -1,3 +1,3 @@
 # web-training
 
-This is the content A
+This is the content B
